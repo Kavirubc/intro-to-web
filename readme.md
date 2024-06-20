@@ -1,1 +1,10 @@
-Intro to web
+WEB 101
+
+Branches - 
+
+1. HTML
+2. CSS
+3. JS
+4. PHP
+
+Feel free to contact me - https://www.linkedin.com/in/kaviruhapuarachchi/ 
