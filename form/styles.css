@@ -1,0 +1,44 @@
+/* Style for h1 element */
+h1 {
+    color: #01510d;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+/* Style for form element */
+form {
+    margin: 2em;
+}
+
+/* Style for label elements */
+label {
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+/* Style for input elements */
+input {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+/* Style for button element */
+button {
+    padding: 0.5em 1em;
+    background-color: #d61c1c;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
